@@ -7,6 +7,8 @@ across regions, categories, and time periods.
 ## 📸 Dashboard Preview
 ![Dashboard](./Sales%20Performance%20Dashboard_Image.png)
 
+![Parameter Dashboard](Sales%20Performance%20Dashboard_Image(Parameter).png)
+
 ## 🛠️ Tools Used
 - Tableau Desktop / Tableau Public
 - Dataset: Global Superstore Dataset
