@@ -5,7 +5,7 @@ An interactive Tableau dashboard analyzing Global Superstore sales performance
 across regions, categories, and time periods.
 
 ## 📸 Dashboard Preview
-![Dashboard](SalesPerformanceDashboard_Image.png)
+![Dashboard](Sales Performance Dashboard_Image.png)
 
 ## 🛠️ Tools Used
 - Tableau Desktop / Tableau Public
