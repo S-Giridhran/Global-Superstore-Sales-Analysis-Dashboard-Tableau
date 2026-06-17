@@ -104,11 +104,11 @@ Highest Profit Region = IF SUM([Profit]) = WINDOW_MAX(SUM([Profit])) THEN "Highe
 
 ## 🚀 Future Enhancements
 
-Add more parameters (Region, Category, Ship Mode)
-Implement forecasting for future sales
-Add product-level profitability deep dive
-Publish to Tableau Public / Tableau Server
-Mobile responsive optimization
+- Add more parameters (Region, Category, Ship Mode)
+- Implement forecasting for future sales
+- Add product-level profitability deep dive
+- Publish to Tableau Public / Tableau Server
+- Mobile responsive optimization
 
 ## 👨‍💻 Author
 Giridharan S
